@@ -1,0 +1,2 @@
+# EliteScript7
+ok
